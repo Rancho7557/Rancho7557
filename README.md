@@ -35,10 +35,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rancho7557&show_icons=true&locale=en&layout=compact" alt="rancho7557" /></p>
 
-<p>Experience in designing and maintaining responsive and interactive web pages through front end 
-development technologies like HTML5,CSS3, JAVASCRIPT etc. Knowledge in Core Java, SQL, GIT and photo 
+<p>To seek a long-term career with the company and to utilize my skills and knowledge to 
+contribute to the company and also improve my technical and overall skills in the process.
+ Experience in designing and maintaining responsive and interactive web pages through front end 
+development technologies like HTML5,CSS3, JAVASCRIPT etc. Knowledge in, SQL, NoSql,Nodejs, GIT and photo 
 editing tools like Adobe Photoshop, Adobe illustration etc.</p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rancho7557&show_icons=true&locale=en" alt="rancho7557" /></p>
