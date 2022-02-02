@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rancho7557&show_icons=true&locale=en&layout=compact" alt="rancho7557" /></p>
 
-<hr>
+<br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rancho7557&show_icons=true&locale=en" alt="rancho7557" /></p>
 
